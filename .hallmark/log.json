@@ -1,0 +1,31 @@
+[
+ {
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "app",
+  "shape": "app screen",
+  "theme": "Ticker (manual deal, catalog absent)",
+  "axes": "dark/grotesk-heavy/chromatic-yellow",
+  "hero": "PnL board, three figures parted by hairlines",
+  "nav": "top bar, wordmark left, wallet and BscScan right",
+  "footer": "colophon line with sources",
+  "imagery": "none, data is the material",
+  "photos": [],
+  "sections": [
+   "top bar",
+   "live band",
+   "PnL board",
+   "modal strip",
+   "rincian",
+   "per kategori",
+   "history",
+   "sumber data",
+   "colophon"
+  ],
+  "signature": "the PnL board with the realised-vs-estimated split",
+  "waived": [],
+  "prompt": "Hallmark redesign of the Rangkuman Garapan crypto ledger dashboard",
+  "fingerprint": "app-screen/ticker/pnl-board/hairline-figures/flat-sections",
+  "date": "2026-11-05"
+ }
+]

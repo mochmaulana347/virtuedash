@@ -1,0 +1,801 @@
+[
+ {
+  "id": "garapan-snakeid-2434",
+  "nama": "SnakeID #2434",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00506,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xafc6bca0e191e396306343213b04ff9a8d717263",
+   "tokenId": "2434",
+   "symbol": "SnakeID #2434"
+  },
+  "txHash": "0x136d32d099b539d7c90d77b8e7506bf9f665b7088dc992780485d528caa424af",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000071931 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-gorgonyx-517",
+  "nama": "Gorgonyx #517",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00686,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x946c5a829a20914f62181cc909131fafb52b1f5d",
+   "tokenId": "517",
+   "symbol": "Gorgonyx #517"
+  },
+  "txHash": "0xd7ff33495a21d3677e81e9390b5e224e1133527caf24c7d6c7705004ff106cf3",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000097508 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-zhenxiangu-596",
+  "nama": "Zhenxiangu #596",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.007232,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x606db6ae5d34d03bba660709af8f580b22e9f37e",
+   "tokenId": "596",
+   "symbol": "Zhenxiangu #596"
+  },
+  "txHash": "0x22d4c901cbb4a164d9e767228ab76cf219e542db8bf129b0d7a2a3c5d8a8f073",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000102799 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-krakenova-564",
+  "nama": "Krakenova #564",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.006847,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x0699d71e394e4fc46b85d698ecee32ca3c474c8c",
+   "tokenId": "564",
+   "symbol": "Krakenova #564"
+  },
+  "txHash": "0xbc0be8e205607d407ad239a81bfbc8cee7a7b428880b5765e5a5dafde6b9d1ad",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000097332 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-synthkoi-560",
+  "nama": "Synthkoi #560",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.006306,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x60ae15d6801b2c2350ebb1cc0c6a6dff689853fc",
+   "tokenId": "560",
+   "symbol": "Synthkoi #560"
+  },
+  "txHash": "0xa276ddf1ebbf90c430d2701e2ffd0458600f619dc8d9dda360d5c1657ca701c7",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000089641 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-lidarwhal-618",
+  "nama": "Lidarwhal #618",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.005804,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xeb4273364c5539ede40e9e246958e0610359ae29",
+   "tokenId": "618",
+   "symbol": "Lidarwhal #618"
+  },
+  "txHash": "0x30d75a74f1b9c725ffd5f8d6557b26a558e033d218ba84a5b701de58a8c691a5",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00000825 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-terminaris-530",
+  "nama": "Terminaris #530",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.006083,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xf02fa199e0bead87c76536551ca1344cf8af9e21",
+   "tokenId": "530",
+   "symbol": "Terminaris #530"
+  },
+  "txHash": "0x2a980ab304f0ba8ebb93899d4b3a06d1fee702db366fce3000883ea390768ab8",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000086467 BNB (@ $703.52, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-castdeep-2163",
+  "nama": "Cast Deep #2163",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0093,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x37f8f181ab2f2b2D4209AA9c77c34d8E8566C360",
+   "tokenId": "2163",
+   "symbol": "Cast Deep #2163"
+  },
+  "txHash": "0x5b0724848716f71758e81990d968a74a3a2b35d9cced6fda9877378ebcf0e297",
+  "catatan": "Zona Abyss (31 zero bits). Modal = gas aktual 0.00001315 BNB (@ ~$707, 31 Okt 2026). 1 free cast per wallet sudah terpakai."
+ },
+ {
+  "id": "garapan-assetagents-3694",
+  "nama": "Asset Agents #3694",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00703,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xfc60cdd577759bd2af7f3351917e80672a91d540",
+   "tokenId": "3694",
+   "symbol": "Asset Agents #3694"
+  },
+  "txHash": "0x5767ffe6514275c3b6b99d1f36e066233380c734a95bcef4e8addf9762500ac8",
+  "catatan": "Auto-mint oleh monitor free-mint (freeMint untuk Binance Agent ID). Modal = gas aktual 0.000010 BNB (@ ~$703, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-wuse-6316",
+  "nama": "Wuse #6316",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0243,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x8db597b5805f072d379609152d5f77f09dd86c4e",
+   "tokenId": "6316",
+   "symbol": "Wuse #6316"
+  },
+  "txHash": "0x56a82e24b90486cf72cb98c7e2da13c81aaa9df9f6edcbdd55fe01e744f0b39d",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000346 BNB (@ $700.85, 2026-10-31)."
+ },
+ {
+  "id": "garapan-agent-cosmos-1701",
+  "nama": "Agent Cosmos #1701",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0157,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x86d4287dbc0696e74aa8383ca25be8a6b3ff0ac6",
+   "tokenId": "1701",
+   "symbol": "Agent Cosmos #1701"
+  },
+  "txHash": "0x02dc957866f51425458031e0e732f28088e94fad3a96e13fd1fc5af8cc1ca927",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00002244 BNB (@ $700.85, 2026-10-31)."
+ },
+ {
+  "id": "garapan-shard-id-5348",
+  "nama": "Shard Id #5348",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0248,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x5c46de8d0c5dfdf535558d363f492967cd5e146b",
+   "tokenId": "5348",
+   "symbol": "Shard Id #5348"
+  },
+  "txHash": "0xea83e6d1a9eebb03422de977ed89fdfd08d2997ea9f81bd8cf147e48d2256134",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00003545 BNB (@ $700.85, 2026-10-31)."
+ },
+ {
+  "id": "garapan-nft-2ed9-3770",
+  "nama": "NFT 0x2ed9a0d0 #3770",
+  "tanggal": "2026-10-28",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.01609,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x2ed9e0a6992ba22b48c2fc2def6bb2365301a0d0",
+   "tokenId": "3770",
+   "symbol": "NFT 0x2ed9a0d0 #3770"
+  },
+  "txHash": "0x63280303d76362e4b1438426031ad9e8b5f8047b9affe6b9bd2289764addfd97",
+  "catatan": "Terdeteksi dari riwayat wallet (mint manual, sebelum monitor aktif). Modal = gas aktual 0.000023 BNB (@ $699.54, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-nft-d87a-31684",
+  "nama": "NFT 0xd87a2213 #31684",
+  "tanggal": "2026-10-27",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.01469,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xd87adb2e47979d6cb323896b1a9320e0dd132213",
+   "tokenId": "31684",
+   "symbol": "NFT 0xd87a2213 #31684"
+  },
+  "txHash": "0x15d034671fa1ded2be13e6e804e55f445befcee1746e1201d8070070bf705845",
+  "catatan": "Terdeteksi dari riwayat wallet (mint manual, sebelum monitor aktif). Modal = gas aktual 0.000021 BNB (@ $699.54, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-nft-60b9-mint",
+  "nama": "NFT 0x60b9022f #9897",
+  "tanggal": "2026-10-27",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0056,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x60b9262456de011f7d15a54cdd8c48baaa8b022f",
+   "tokenId": "98978434695890477217278259628307934475202662935479405477028797045256646043204",
+   "symbol": "NFT 0x60b9022f #9897"
+  },
+  "txHash": "0xbba8faa67c9692ceb896a6a9a4ac5ccf57050ad2b412e4e3e8d0bc9d650f4e05",
+  "catatan": "Terdeteksi dari riwayat wallet (mint manual, sebelum monitor aktif). Modal = gas aktual 0.000008 BNB (@ $699.54, 31 Okt 2026)."
+ },
+ {
+  "id": "garapan-lemonjing-830",
+  "nama": "Lemonjing #830",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.008296,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x82af8e3f07991ab68d52e4e29e6029ebd3f07c92",
+   "tokenId": "830",
+   "symbol": "Lemonjing #830"
+  },
+  "txHash": "0x088b9c37e0713013fa46a74b87647cd8409960f46d30e5b761aa94a389ac5564",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00001181 BNB (@ $702.17, 2026-10-31)."
+ },
+ {
+  "id": "garapan-botai-985",
+  "nama": "BOT.AI #985",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00677,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xa2d330a5f3e2ea026c68238b071ff3246a7a6bd3",
+   "tokenId": "985",
+   "symbol": "BOT.AI #985"
+  },
+  "txHash": "0xa1216c6f447a788d47fa6a8b05814f4acd7071b8ff436f4cb69e4c8f343ebfaf",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00000961 BNB (@ $704.74, 2026-10-31)."
+ },
+ {
+  "id": "garapan-cloudpuff-4705",
+  "nama": "Cloudpuff #4705",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.014387,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xe09131bbb48e653c5b2d64099324f14000d67de5",
+   "tokenId": "4705",
+   "symbol": "Cloudpuff #4705"
+  },
+  "txHash": "0x98a6a248130d6565ccd8ca3fa63d6703d24fd19f94dd65e247a401124f09b5b4",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000020 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-onchain-plants-2209",
+  "nama": "Onchain Plants #2209",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.018975,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x2af54636e5f0fe74698fff0a04998c7b23b411bc",
+   "tokenId": "2209",
+   "symbol": "Onchain Plants #2209"
+  },
+  "txHash": "0x18266b35317a3fdef37c3f6d651485e6d9d1fa8ed7518ce3970efe6647a66b63",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000027 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-borealux-3217",
+  "nama": "Borealux #3217",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.008013,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x2d8a9369e39db81c7a27d4d5822e68db348856fb",
+   "tokenId": "3217",
+   "symbol": "Borealux #3217"
+  },
+  "txHash": "0x867580034cd8c1155fbe4c7823cbdcac9b75e233f787a2128bae36414422d255",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000011 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-onchain-parasit-826",
+  "nama": "ONCHAIN PARASIT #826",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.008391,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x174FEb0C8E78C10f6ef56f4cD01379EcfB0a8BA2",
+   "tokenId": "826",
+   "symbol": "ONCHAIN PARASIT #826"
+  },
+  "txHash": "0xfa7fc34f96f85eb1a91d6ae3047473d4d48671fa1583ce5aa15492316c38638b",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000012 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-periscopa-3887",
+  "nama": "Periscopa #3887",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.010903,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x40cdf5515370f3605adba8e9510b0d3a5bc16cee",
+   "tokenId": "3887",
+   "symbol": "Periscopa #3887"
+  },
+  "txHash": "0x99a48840f574603dd5531cef3e0a0d10045e1e1c16c2db1697c0d45bda0f6814",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000016 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-bnbthegods-2072",
+  "nama": "BNBTHEGODS #2072",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.009897,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xc989e63a7493ca79d288f1e70cf04aa07b075917",
+   "tokenId": "2072",
+   "symbol": "BNBTHEGODS #2072"
+  },
+  "txHash": "0x168389c1c4514cfc479a920415c4ce8c1cfefaa460a039566e93b00df9a2253b",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000014 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-boatami-3556",
+  "nama": "Boatami #3556",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.008578,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xc4125a16da12513fe432ecc501b24b5cf8e7b3af",
+   "tokenId": "3556",
+   "symbol": "Boatami #3556"
+  },
+  "txHash": "0x6e011de32382196daf558c37db70e2d333e54831ac453e8d54c1c4c18b9bad85",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000012 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-chuffle-5634",
+  "nama": "Chuffle #5634",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.011865,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xd4e10c52193480b120eb37aeeb2072f8db8eb74f",
+   "tokenId": "5634",
+   "symbol": "Chuffle #5634"
+  },
+  "txHash": "0xd41691163f676f5c6985e60151e1cd9403ba0e492026649c1deaad3ae21f51ae",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000017 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-spinnaro-3389",
+  "nama": "Spinnaro #3389",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.009953,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xd76ca89f57f1700d895b29b9c0923b086ebdff89",
+   "tokenId": "3389",
+   "symbol": "Spinnaro #3389"
+  },
+  "txHash": "0xb652d9685e6dc719900e90b84f86f64cad01d831c6df2732cd1f86307a0e2f4a",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000014 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-rookling-3353",
+  "nama": "Rookling #3353",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.012149,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xe76a5bf585f9378b065d48f1a49d90ecf71ebeba",
+   "tokenId": "3353",
+   "symbol": "Rookling #3353"
+  },
+  "txHash": "0xbb06b57b77abb62835b0e2273f781a9ce1f22995c67d304d7d3d4ce38f3d2abf",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000017 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-kitesy-3511",
+  "nama": "Kitesy #3511",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.012345,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x8cc691d0eef7870460e2886aa1075bf3468710a2",
+   "tokenId": "3511",
+   "symbol": "Kitesy #3511"
+  },
+  "txHash": "0x9c2a399345be7788df56b48918a485127249eff850ae62cd40257558f8cb66d7",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000018 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-skullbloom-4905",
+  "nama": "Skullbloom #4905",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.012227,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x12fb326c0037c3978a7cc08221e41dc81d26d060",
+   "tokenId": "4905",
+   "symbol": "Skullbloom #4905"
+  },
+  "txHash": "0x5feb6e85a4bc1c31e74e85d02d0379c93bd00c6cf79c875b014723630617c7ee",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000017 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-pengwyn-4817",
+  "nama": "Pengwyn #4817",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.012419,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x7b9400c99d460a9d7e444b47366d9d54550b608f",
+   "tokenId": "4817",
+   "symbol": "Pengwyn #4817"
+  },
+  "txHash": "0xbda150f62a8a4f25332ad3f343baaf1db32cdae3ef290d6510085d1d3df022c9",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000018 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-printer-ai-5772",
+  "nama": "Printer Ai #5772",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.011758,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x7638Bf791c601152A0E21899B1192cf2F7fe2348",
+   "tokenId": "5772",
+   "symbol": "Printer Ai #5772"
+  },
+  "txHash": "0x71370e6f6a9af39887ef1095679bb38cb15952420b62dae094c29b31b8a4cabb",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000017 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-bobaloo-2573",
+  "nama": "Bobaloo #2573",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00903,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x072109f54dCca581e45C6FF3516e6Af9BDcbdc60",
+   "tokenId": "2573",
+   "symbol": "Bobaloo #2573"
+  },
+  "txHash": "0x856e34d937bc1bd021885d5b7cf6fe760345751e18298e745b45ea5ee070deae",
+  "catatan": "Auto-mint dari tab MINTED beastfarmer (sudah terbukti di-mint AI radar). Modal = gas aktual 0.000013 BNB (@ $702.66, 2026-10-31)."
+ },
+ {
+  "id": "garapan-census-5shares",
+  "nama": "CENSUS 5 shares (No.03404-03408)",
+  "tanggal": "2026-10-31",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 5.1361,
+  "hasilUsd": 0,
+  "asetAda": false,
+  "aset": {
+   "kind": "token",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xfC96737a40DBf169782E60539B82d4eE17f25708",
+   "tokenId": "",
+   "symbol": "CENSUS",
+   "amount": "250000000"
+  },
+  "txHash": "0x38de8e5346b5b070f1adc2a47629bc0165e53507807468cabdc80abd56ecbe2c",
+  "catatan": "GAGAL JUAL \u2014 rugi total. Coba jual 2026-11-01 ~01:00 WIB: router PancakeSwap 0x10ED... terbukti tidak ada code on-chain (call sukses tapi no-op), lalu swap manual 2 langkah (transfer 250M CENSUS ke pair, pajak 5% = 12.5M burn) \u2014 sebelum swap dieksekusi, trader lain menyerap 237.5M CENSUS ke reserve pool. Dana terkunci permanen di pool (LP burned). Hasil: 0 USDT. Modal $5.136 hangus. Pelajaran: jangan pernah operasi DeFi non-atomik (transfer lalu swap terpisah)."
+ },
+ {
+  "id": "garapan-genesis-seeds-5880",
+  "nama": "Genesis Seeds #5880",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.00718,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xe9522648503c626ad84e5bc7445d1e26c89f6fec",
+   "tokenId": "5880",
+   "symbol": "Genesis Seeds #5880"
+  },
+  "txHash": "0xee3d436fd90d84d62881c5b4df3350c4155a12561b425df95822b5ada68aa560",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.0000102126 BNB (@ $703.25, 2026-11-01)."
+ },
+ {
+  "id": "garapan-lazabit-495",
+  "nama": "Lazabit #495",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.027569,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x3048e07c057ef694d4e431154dafad473d1aa18b",
+   "tokenId": "495",
+   "symbol": "Lazabit #495"
+  },
+  "txHash": "0x183cd134140636114c16bc50e5c13befdbecc66a495be78b7d2a8a7db5da2884",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00003926 BNB (@ $702.18, 2026-11-01)."
+ },
+ {
+  "id": "garapan-bnbagent-6647",
+  "nama": "BNB Agent #6647",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 1.02,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x1aa9c80f7c22dde63ef457be8f85a5f36879573d",
+   "tokenId": "6647",
+   "symbol": "BNB Agent #6647"
+  },
+  "txHash": "0x920216ae1f708b9f7920326f9558d8e0eb342087752fe8ae69ccd8d95eeb1e6e",
+  "catatan": "Mint berbayar bscagent.fun: 5 kartu @ 1 USDT (override eksplisit user). Modal $1.02/kartu = $5 USDT + gas. Dapat juga 2.200.000 BNBAGENT."
+ },
+ {
+  "id": "garapan-bnbagent-6648",
+  "nama": "BNB Agent #6648",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 1.02,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x1aa9c80f7c22dde63ef457be8f85a5f36879573d",
+   "tokenId": "6648",
+   "symbol": "BNB Agent #6648"
+  },
+  "txHash": "0x920216ae1f708b9f7920326f9558d8e0eb342087752fe8ae69ccd8d95eeb1e6e",
+  "catatan": "Mint berbayar bscagent.fun: 5 kartu @ 1 USDT (override eksplisit user). Modal $1.02/kartu = $5 USDT + gas. Dapat juga 2.200.000 BNBAGENT."
+ },
+ {
+  "id": "garapan-bnbagent-6649",
+  "nama": "BNB Agent #6649",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 1.02,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x1aa9c80f7c22dde63ef457be8f85a5f36879573d",
+   "tokenId": "6649",
+   "symbol": "BNB Agent #6649"
+  },
+  "txHash": "0x920216ae1f708b9f7920326f9558d8e0eb342087752fe8ae69ccd8d95eeb1e6e",
+  "catatan": "Mint berbayar bscagent.fun: 5 kartu @ 1 USDT (override eksplisit user). Modal $1.02/kartu = $5 USDT + gas. Dapat juga 2.200.000 BNBAGENT."
+ },
+ {
+  "id": "garapan-bnbagent-6650",
+  "nama": "BNB Agent #6650",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 1.02,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x1aa9c80f7c22dde63ef457be8f85a5f36879573d",
+   "tokenId": "6650",
+   "symbol": "BNB Agent #6650"
+  },
+  "txHash": "0x920216ae1f708b9f7920326f9558d8e0eb342087752fe8ae69ccd8d95eeb1e6e",
+  "catatan": "Mint berbayar bscagent.fun: 5 kartu @ 1 USDT (override eksplisit user). Modal $1.02/kartu = $5 USDT + gas. Dapat juga 2.200.000 BNBAGENT."
+ },
+ {
+  "id": "garapan-bnbagent-6651",
+  "nama": "BNB Agent #6651",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-berbayar",
+  "modalUsd": 1.02,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0x1aa9c80f7c22dde63ef457be8f85a5f36879573d",
+   "tokenId": "6651",
+   "symbol": "BNB Agent #6651"
+  },
+  "txHash": "0x920216ae1f708b9f7920326f9558d8e0eb342087752fe8ae69ccd8d95eeb1e6e",
+  "catatan": "Mint berbayar bscagent.fun: 5 kartu @ 1 USDT (override eksplisit user). Modal $1.02/kartu = $5 USDT + gas. Dapat juga 2.200.000 BNBAGENT."
+ },
+ {
+  "id": "garapan-crop-pals-5082",
+  "nama": "Crop Pals #5082",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.0085,
+  "hasilUsd": null,
+  "asetAda": true,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xd43f328560ae9ba09b27375d1b83f7fa7a0d091b",
+   "tokenId": "5082",
+   "symbol": "Crop Pals #5082"
+  },
+  "txHash": "0x81b0b4624f6618a48ae5584acf7eef7bf41cd6ade154be388f83669f3180b887",
+  "catatan": "Auto-mint oleh monitor free-mint. Modal = gas aktual 0.00001197 BNB (@ $713.8, 2026-11-01)."
+ },
+ {
+  "id": "garapan-zags-claim",
+  "nama": "ZAGS (klaim gagal \u2014 0 token)",
+  "tanggal": "2026-11-01",
+  "chain": "bsc",
+  "tipe": "mint-gratis",
+  "modalUsd": 0.001,
+  "hasilUsd": 0,
+  "asetAda": false,
+  "aset": {
+   "kind": "nft",
+   "address": "0xC905AA0F4E53f5A7F18335e0C33977d4a6783903",
+   "contract": "0xC0232ec00A5687759FBf27b7465FAAd0b88B59d6",
+   "tokenId": "n/a",
+   "symbol": "ZAGS claim"
+  },
+  "txHash": "0xfefe2cec77c0b7d45d4d4ff26b4d0a2491b07533b9a3ab77c072428d2e8fbfb0",
+  "catatan": "KOREKSI 2026-11-01 16:30 WIB: claim() tereksekusi (status 0x1, tx 0xfefe2cec) tapi TIDAK menghasilkan token \u2014 saldo ZAGS wallet terverifikasi 0 on-chain. Distributor 0xC0232ec00A5687759FBf27b7465FAAd0b88B59d6 tidak mengirim apa pun (0 logs). Modal gas $0.001 hangus, hasil $0. Bukan akuisisi."
+ }
+]
